@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FGCApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dash</string>
+    <string name="title_notifications">Notifs</string>
+    <string name="title_community">Community</string>
+    <string name="title_store">Store</string>
+    <string name="title_media">Media</string>
+    <string name="title_Events">Events</string>
+</resources>

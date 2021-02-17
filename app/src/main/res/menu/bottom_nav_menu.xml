@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/mediaFragment"
+        android:icon="@drawable/ic_media"
+        android:title="@string/title_media" />
+
+    <item
+        android:id="@+id/eventsFragment"
+        android:icon="@drawable/ic_events"
+        android:title="@string/title_Events" />
+    <item
+        android:id="@+id/communityFragment"
+        android:icon="@drawable/ic_community_white"
+        android:title="@string/title_community" />
+    <item
+        android:id="@+id/storeFragment"
+        android:icon="@drawable/ic_store"
+        android:title="@string/title_store" />
+
+</menu>
